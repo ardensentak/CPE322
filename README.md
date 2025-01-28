@@ -4,7 +4,7 @@
 **Stevens Institute of Technology**
 <br/>
 *Computer Engineering*
-> "Everybody should learn to program a computer because it teaches you how to think" ~Steve Jobs
+> "Everybody should learn to program a computer because it teaches you how to think." ~Steve Jobs
 
 **My Interests**
 1. software engineering
