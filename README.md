@@ -21,6 +21,6 @@
 
 `Graduation Year: 2026`
 
-[Arden's GitHub Link](https://github.com/ardensentak/CPE322)
+[Design VI Team Site](https://github.com/ardensentak/CPE322)
 <br/>
 ![Image of Stevens Institute of Technology](https://github.com/ardensentak/CPE322/blob/main/stevensImage.jpg)
