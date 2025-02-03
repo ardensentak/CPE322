@@ -5,7 +5,7 @@
 <br/>
 *Computer Engineering*
 <br/>
-[Design VI Project Team Site](https://sites.google.com/stevens.edu/githubguardians/home)
+[Design VI Team Project Site](https://sites.google.com/stevens.edu/githubguardians/home)
 <br/>
 > "Everybody should learn to program a computer because it teaches you how to think." ~Steve Jobs
 
