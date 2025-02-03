@@ -21,6 +21,6 @@
 
 `Graduation Year: 2026`
 
-[Design VI Team Site](https://sites.google.com/stevens.edu/githubguardians/home)
+[Design VI Project Team Site](https://sites.google.com/stevens.edu/githubguardians/home)
 <br/>
 ![Image of Stevens Institute of Technology](https://github.com/ardensentak/CPE322/blob/main/stevensImage.jpg)
