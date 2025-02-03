@@ -23,6 +23,5 @@
 --- 
 
 `Graduation Year: 2026`
-
 <br/>
 ![Image of Stevens Institute of Technology](https://github.com/ardensentak/CPE322/blob/main/stevensImage.jpg)
