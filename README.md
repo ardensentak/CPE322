@@ -4,6 +4,8 @@
 **Stevens Institute of Technology**
 <br/>
 *Computer Engineering*
+[Design VI Project Team Site](https://sites.google.com/stevens.edu/githubguardians/home)
+<br/>
 > "Everybody should learn to program a computer because it teaches you how to think." ~Steve Jobs
 
 **My Interests**
@@ -21,6 +23,5 @@
 
 `Graduation Year: 2026`
 
-[Design VI Project Team Site](https://sites.google.com/stevens.edu/githubguardians/home)
 <br/>
 ![Image of Stevens Institute of Technology](https://github.com/ardensentak/CPE322/blob/main/stevensImage.jpg)
