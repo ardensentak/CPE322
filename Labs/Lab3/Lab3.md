@@ -1,7 +1,7 @@
 # Lab 3
 ## Python 
 ### Instructions:
-Go to the IOT GitHUb repository and review lesson 3. Install required Python packages such as jdcal, astral, and geopy. Execute the following code: </br>
+Go to the IOT GitHub repository and review lesson 3. Install required Python packages such as jdcal, astral, and geopy. Execute the following code: </br>
 `cd ~/iot`,
 `cd *3`,
 `python3 julian.py`,
