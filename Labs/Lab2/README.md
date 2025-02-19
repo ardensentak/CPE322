@@ -136,3 +136,7 @@ This command displays information about your network connections, including acti
 ## Summary
 This lab explored various terminal commands. By completing this lab I was able to learn some fundamental terminal commands regarding system information, process and directory management, file operations, networks, and GIT version control. 
 
+---
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System.
+
