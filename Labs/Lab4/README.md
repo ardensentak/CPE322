@@ -108,11 +108,12 @@ Before running the server I executed the following commands to help the server a
 Then I ran the Django server by executing: `python3 manage.py runserver`. Initially I went to  http://127.0.0.1:8000/admin and logged in with my Django administration username and password. On this website I added in location data for Stevens. Then, in HTML form, I posted 2024 to the DT List at http://127.0.0.1:8000/dt, 20 to the Cpu list at http://127.0.0.1:8000/cpu, and 20 to the Mem List at http://127.0.0.1:8000/mem. After doing all of this, in a seperate terminal window I ran controller.py in the mycpu directory with `python3 controller.py`. With this and the Django server still running, I viewed the app at  http://127.0.0.1:8000/home. </br>
 
 The app looked like this: 
-![mycpu Django app](
+![mycpu Django app](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/cpulab4.jpg)
 
-  
-
-
+Below are screenshots that show my steps taken in the terminal: 
+![terminal steps 1](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/RESTuptomigrations.png)
+![terminal steps 2](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/RESTuptoserverrun.png)
+![terminal controller step](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/controllerlab4.png)
 
 ---
 ## Installing Flask
