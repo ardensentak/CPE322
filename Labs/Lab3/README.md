@@ -73,3 +73,6 @@ This command runs a python script called documentstats.py. It reads a text file 
 By completing this lab, I learned how to execute python commands through my terminal. Additionally, I learned some basic commands from the jdcal, astral, and geopy
 packages. I was not familiar with these packages before completing this lab so I was glad to get exposure to something new!
 
+---
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System.
