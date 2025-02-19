@@ -129,3 +129,6 @@ I viewed the server at http://127.0.0.1:5000/. Here is what it looked like:
 ## Summary
 In this lab I learned how to use Django, Django REST framework, and flask. By completing this lab I learned how to run and access servers,how to get an API key,and how to make migrations for manage.py files.
 
+---
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System.
