@@ -29,3 +29,7 @@ Document results on your GitHub repository.
 ---
 ## Summary
 In this lab I learned how to install and use GHDL and GTKWave. GHDL and GTKWave are tools used to simulate and debug circuits. GHDL is a compiler that translates VHDL files into machine code, while GTKWave is a visualization tool that can visualize circuit behavior. Note that VHDL is a language used to describe the behavior of digital circuits. These tools can be helpful when designing hardware, performing tests, and documenting and verifying digital systems. 
+
+---
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System.
