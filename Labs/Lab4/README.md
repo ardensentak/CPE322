@@ -38,11 +38,11 @@ Next, I edited settings.py in ~/stevens/stevens to add an asterisk to ALLOWED_HO
 Then I copied files from the GitHub lesson4/stevens repository. 
 1. I copied urls.py to ~/stevens/stevens by:
 - `cp ~/iot/lesson4/stevens/urls.py .`
-3. I copied admin.py, models.py, and views.py to ~/stevens/myapp by:
+2. I copied admin.py, models.py, and views.py to ~/stevens/myapp by:
 - `cp ~/iot/lesson4/stevens/admin.py .`, 
 - `cp ~/iot/lesson4/stevens/models.py .`
 - `cp ~/iot/lesson4/stevens/views.py .`
-4. I copied index.html by:
+3. I copied index.html by:
  - `mkdir static templates`
 - `cd templates`
 - `mkdir myapp`
@@ -116,11 +116,16 @@ Below are screenshots that show my steps taken in the terminal:
 ![terminal controller step](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/controllerlab4.png)
 
 ---
-## Installing Flask
----
 
 ## Running Flask server
----
+I already had Flask installed so I did not have to go through the installation process. To run the flask server I executed the following commands:
+- `cd ~/iot/lesson4`
+- `python3 hello_world.py` </br>
+![terminal code for flask server](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/hwflaskcode.png) </br>
+I viewed the server at http://127.0.0.1:5000/. Here is what it looked like:
+![flask hello world server](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/hwflaskserver.png)
 
+---
 ## Summary
+In this lab I learned how to use Django, Django REST framework, and flask. By completing this lab I learned how to run and access servers,how to get an API key,and how to make migrations for manage.py files.
 
