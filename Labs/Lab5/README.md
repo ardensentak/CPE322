@@ -34,3 +34,7 @@ As a result of running these commands, the terminal that ran pubcpu.py published
 ---
 ## Summary:
 In this lab I learned how to use paho-mqtt to publish messages from the terminal and how to subscribe one terminal to another. 
+
+---
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System.
