@@ -19,6 +19,14 @@ Go to the IOT GitHub repository and review lesson 3. Install required Python pac
 Document the results to your GitHub repository. 
 
 ---
+## Installing Necessary Python Packages
+Before executing the python code I installed jdcal, astral and geopy. I did this by executing the following commands: `pip3 install jdcal`, 
+`pip3 install astral`,
+`pip3 install geopy`.
+![terminal view of package installation](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab3/lab3images/lab3libraries.png)
+
+---
+## Exexuting Python Code: 
 
 ## cd ~/iot
 This command changes directories to iot. Note that in a previous lab the iot GitHub repository was copied. The directory "iot" has access to all files/folders from this repository. 
@@ -60,4 +68,8 @@ This command runs a python script called battery.py. It prints current battery s
 This command runs a python script called documentstats.py. It reads a text file (in this case document.txt), counts the occurrences of wordsmexcluding common stop words, and prints the total word count along with the top ten most frequent words.
 ![terminal view of python3 documentstats.py document.txt](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab3/lab3images/ss13.png)
 
+---
+## Summary
+By completing this lab, I learned how to execute python commands through my terminal. Additionally, I learned some basic commands from the jdcal, astral, and geopy
+packages. I was not familiar with these packages before completing this lab so I was glad to get exposure to something new!
 
