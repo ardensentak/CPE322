@@ -29,6 +29,21 @@ The following images show what each webpage looked like:
 
 ---
 ## Pystache:
+I installed Pystache on my mac using the command `pip3 install pystache`. Then I executed the following commands in order to 
+run say_hello.py that uses the template say_hello.mustache.
+- `cd ~/iot/lesson6`
+- `cat say_hello.mustache`
+- `cat say_hello.py`
+- `python3 say_hello.py`
+
+The results of these commands are shown below: 
+![pystache results](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab6/lab6images/pystache.png)
 
 ---
 ## Summary:
+By completing this lab I learned how to run webpages using node.js and how to use Pystache, which is a python implementation of Mustache. 
+
+---
+
+Author: Arden Sentak </br>
+I pledge my honor that I have abided by the Stevens Honor System. 
