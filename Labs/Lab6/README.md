@@ -11,7 +11,7 @@ Node.js was already installed on my mac so I was able to start with running the 
 - `node hello-world.js` (I pressed ctrl C to exit the server)
 - `node hello.js` (I pressed ctrl C to exit the server)
 - `node http.js` (I pressed ctrl C to exit the server)
-![node.js terminal code](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab6/lab6images/nodejscode.png)
+![Node.js terminal code](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab6/lab6images/nodejscode.png)
 
 Each running webpage displayed different server activity. As can be seen in the image above, hello-world.js did not display any server activity. Hello.js responded to a refresh with outputting
 "response end call done" and "request end event fired" to the terminal. Lastly, http.js responded with a count of how many times the webpage had been refreshed. 
@@ -41,7 +41,7 @@ The results of these commands are shown below:
 
 ---
 ## Summary:
-By completing this lab I learned how to run webpages using node.js and how to use Pystache, which is a python implementation of Mustache. 
+By completing this lab I learned how to run webpages using Node.js and how to use Pystache, which is a Python implementation of Mustache. 
 
 ---
 
