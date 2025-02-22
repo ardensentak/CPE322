@@ -70,7 +70,7 @@ While the server was running, I went to http://127.0.0.1:8000/admin, and logged 
 Then I visited the Django app by going to http://127.0.0.1:8000.
 
 The app is shown below: 
-![django app](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/IMG_9879.jpg)
+![django app](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/weatherStationImage.jpg)
 
 
 ---
@@ -127,7 +127,7 @@ I viewed the server at http://127.0.0.1:5000/. Here is what it looked like:
 
 ---
 ## Summary
-In this lab I learned how to use Django, Django REST framework, and flask. By completing this lab I learned how to run and access servers,how to get an API key,and how to make migrations for manage.py files.
+In this lab I learned how to use Django, Django REST framework, and flask. By completing this lab I learned how to run and access servers, how to get an API key, and how to make migrations for manage.py files.
 
 ---
 Author: Arden Sentak </br>
