@@ -51,7 +51,7 @@ Then I copied files from the GitHub lesson4/stevens repository.
 ![Django file copies](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/cpslab4.png)
 
 Next, I enabled google maps API. To do this, I obtained an API key from the google cloud console and replaced "YOUR_API_KEY" in index.html with the API key. This was done using: `nano index.html`
-![API in index.html](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/APIchangeinindex.png)
+![API in index.html](https://github.com/ardensentak/CPE322/blob/main/Labs/Lab4/lab4images/APIchangeinindex1.png)
 
 Then I copied static files from the GitHub repository:
 - `cp ~/iot/lesson4/static/favicon.ico .`
